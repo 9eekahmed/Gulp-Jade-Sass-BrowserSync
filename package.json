@@ -1,5 +1,5 @@
 {
-  "name": "Gulp,Jade,Sass,BrowserSync",
+  "name": "Gulp-Jade-Sass-BrowserSync",
   "version": "0.0.1",
   "description": "A starter project including full setup for GulpJS, SASS + AutoPrefix, JADE, JS Uglify, IMAGE Compression & BrowserSync",
   "main": "gulpfile.js",
