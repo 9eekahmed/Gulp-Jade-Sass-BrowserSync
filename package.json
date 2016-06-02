@@ -1,0 +1,31 @@
+{
+  "name": "Gulp,Jade,Sass,BrowserSync",
+  "version": "0.0.1",
+  "description": "A starter project including full setup for GulpJS, SASS + AutoPrefix, JADE, JS Uglify, IMAGE Compression & BrowserSync",
+  "main": "gulpfile.js",
+  "author": "Mohamed Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "browser-sync": "^2.12.10",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-plumber":"^1.1.0",
+    "gulp-imagemin":"^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/9eekahmed/Gulp-Jade-Sass-BrowserSync.git"
+  },
+  "keywords": [
+    "jade",
+    "gulp",
+    "sass",
+    "browsersync",
+    "js uglify",
+    "autoprefixer",
+    "image Compression"
+  ],
+  "homepage": "https://github.com/9eekahmed/Gulp-Jade-Sass-BrowserSync"
+}
